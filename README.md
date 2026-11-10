@@ -94,3 +94,14 @@ const SCENES = [ {id:"booth", head:"I · THE BOOTH", beats:[…], challenge:{…
 - 文字、代码、封面图：本仓库作者。
 
 MIT License.
+
+## 附：第一夜 · Night One
+
+`night-one.html` 是同仓库的第二个场景，用完全不同的骨架演示同一件事：**物件本身就是学习材料**。
+
+- 一座岛，天黑前 100 分钟，潮线上九件东西。每件只有英文名字和一句英文外观描述，中文释义只在结算时出现。
+- 三个需求（火、淡水、挡风）不靠宣告，靠物件之间的物理关系：`flint + dry grass → fire`，`frond + vine → windbreak`，`coconut → water`。
+- 有两件东西带着印刷标签：`KEEP DRY · NOT FOR DRINKING` 与 `SPIRITS — 40% VOL`。它们看上去都能喝。读懂小字是这一夜真正的分水岭。
+- 十个回合，每个动作 10 分钟。三样都拿到刚好用完时间——查一个词，就少一面墙。
+
+单文件、零依赖、双击即玩：`night-one.html`。
