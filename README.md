@@ -95,13 +95,13 @@ const SCENES = [ {id:"booth", head:"I · THE BOOTH", beats:[…], challenge:{…
 
 MIT License.
 
-## 附：第一夜 · Night One
+## 附：退潮之后 · After the Tide
 
-`night-one.html` 是同仓库的第二个场景，用完全不同的骨架演示同一件事：**物件本身就是学习材料**。
+`after-the-tide.html` 是同仓库的第二个场景，最简版本的机制演示：**只有探索和点击**。
 
-- 一座岛，天黑前 100 分钟，潮线上九件东西。每件只有英文名字和一句英文外观描述，中文释义只在结算时出现。
-- 三个需求（火、淡水、挡风）不靠宣告，靠物件之间的物理关系：`flint + dry grass → fire`，`frond + vine → windbreak`，`coconut → water`。
-- 有两件东西带着印刷标签：`KEEP DRY · NOT FOR DRINKING` 与 `SPIRITS — 40% VOL`。它们看上去都能喝。读懂小字是这一夜真正的分水岭。
-- 十个回合，每个动作 10 分钟。三样都拿到刚好用完时间——查一个词，就少一面墙。
+- 退潮后的岸边，四个地方、十五件东西。你不赶时间，也不需要在这里活下来。
+- 点开任何一件东西，弹出它的英文名、IPA、词性、中文、英文释义，以及它在场景描写里的那一句。
+- 没有关卡、没有计时、没有合成。语言学层就藏在那一下点击里：**物件自己会命名**。
+- 四件东西带着印刷字（`S.S. MERIDIAN`、`SPIRITS — 40% VOL`、`KEEP DRY · NOT FOR DRINKING`、`MERIDIAN · 12`）。四片都读到，它们自己拼成一句话——这是从侦探那边借来的手法：证物上的印刷字，比任何人的证词都硬。
 
-单文件、零依赖、双击即玩：`night-one.html`。
+单文件、零依赖、双击即玩。
