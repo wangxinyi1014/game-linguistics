@@ -2,7 +2,7 @@
 
 **游戏 × 语言学（第二语言习得）** —— 一个分级词汇的英语侦探游戏。你在一间伦敦配音棚里查一桩案子：某集英语配音的母带被抹成了空白。四个嫌疑人，六条证据，你到九点为止。
 
-在线试玩：**https://wangxinyi1014.github.io/silent-reel/**
+在线试玩：**https://wangxinyi1014.github.io/game-linguistics/**
 
 单文件 HTML，双击即可玩，不需要联网、不需要安装。词条按 CEFR 分级（A2 / B1 / B2 / C1），可切换级别重读。
 
